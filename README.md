@@ -60,4 +60,8 @@ Git  порівнює тексти файлів одного сховища і �
 
 ## Ідея: від контенту до потрібного формату
 
+[Запис вебінару](https://www.youtube.com/embed/VnD4P_7uNCM)
+
+
+
 <iframe width="800" height="600" src="https://www.youtube.com/embed/VnD4P_7uNCM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
